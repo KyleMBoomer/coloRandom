@@ -7,9 +7,15 @@
 - Challenges/Wins
 
 ## Installation
-To install our version of ColoRandom, visit this link and fork down our repository. Clone it to your machine, and open the HTML file in your browser to inspect the features. 
+To install ColoRandom:
+- Fork this repo down by clicking the Fork button in the upper right.
+- Clone it down onto your machine.
+- cd into coloRandom
+- Open index.html in your browser.
 
-https://github.com/JWill06/coloRandom
+## Demo 
+Click [here](https://kylemboomer.github.io/coloRandom/) to play around with it. 
+
 
 ## Usage
 ColoRandom is an app that generates a set of five random colors at a time. If the user wants to keep specific colors, they may do so by clicking the lock icon before generating a new set. ColoRandom is replete with features, including generating random palettes, saving palettes, and deleting saved palettes. The possibilities are endless!
